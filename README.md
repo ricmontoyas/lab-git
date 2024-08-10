@@ -14,7 +14,7 @@ Open the `main.ipynb` file in the `your-code` directory. There is only a simple 
 
 ## Deliverables
 
-- `main.ipynb` with your responses to each of the exercises.
+- `main.ipynb` with your responses to each of the exercises .
 
 ## Submission
 
